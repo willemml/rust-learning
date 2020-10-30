@@ -1,3 +1,3 @@
 # Rust Learning
 
-Rust code I write while learning it.
+A repo containing code I create while dedicating time to learning rust.
